@@ -4,7 +4,7 @@
 1. 在「總資金」欄位輸入起始金額，按 **Enter** 確認
 2. 在「押注金額」欄位輸入本局押注，按兩次 **Enter** 完成押注<img width="602" height="362" alt="image" src="https://github.com/user-attachments/assets/9725832d-679f-4ffd-91a1-e5f8346c1ff4" />
 
-3. 按「發牌」取得五張手牌<img width="1206" height="725" alt="image" src="https://github.com/user-attachments/assets/689d833c-f25b-4967-93e8-833cf8dc1c7f" />
+3. 按「發牌」取得五張手牌<img width="1206/2" height="725/2" alt="image" src="https://github.com/user-attachments/assets/689d833c-f25b-4967-93e8-833cf8dc1c7f" />
 
 4. 點擊想要換掉的牌（牌會蓋起來），按「換牌」補新牌，若沒有想要換掉的牌，直接按「換牌」即可。
 5. 按「判斷牌型」查看結果與本局盈虧<img width="1203" height="724" alt="image" src="https://github.com/user-attachments/assets/75fa557e-7a1e-4da7-ab05-99a687c4bb25" />
